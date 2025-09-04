@@ -1,1 +1,1 @@
-Sitemap: https://liulabclemson.github.io/liulab.github.io/sitemap.xml
+Sitemap: https://liulabclemson.github.io/liulab/sitemap.xml
