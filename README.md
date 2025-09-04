@@ -5,6 +5,6 @@
 
   # LiuLabClemson's Website
 
-  Visit **[liulab.clemson.edu](http://liulab.clemson.edu)** 🚀
+  Visit **[liulabclemson.github.io/liulab.github.io](https://liulabclemson.github.io/liulab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
