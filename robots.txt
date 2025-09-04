@@ -1,1 +1,1 @@
-Sitemap: http://liulab.clemson.com/sitemap.xml
+Sitemap: http://liulab.clemson.edu/sitemap.xml
