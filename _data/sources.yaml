@@ -13,17 +13,17 @@
     - software
 
 - id: doi:10.1101/2025.01.03.631147
-  images: https://www.biorxiv.org/content/biorxiv/early/2025/09/02/2025.01.03.631147/F1.large.jpg?width=800&height=600&carousel=1
+  images: https://www.biorxiv.org/content/biorxiv/early/2025/09/02/2025.01.03.631147/F1.large.jpg
   tags:
     - theory
 
 - id: doi:10.1364/OE.531588
-  images: https://opg.optica.org/getimagev2.cfm?img=vNdu51dGGjjC9CmIcrzz1QgugSBFtXgifn%2Bof2reMog%3D&uri=oe-32-24-42601-g001
+  images: https://opg.optica.org/getimagev2.cfm?img=baFr24pJ1UIKzOpk7mA7%2ByElJ0FN8PAHUOTyDCNemXU%3D&uri=oe-32-24-42601-g001
   tags:
     - algorithm
 
 - id: doi:10.1038/s41467-024-49291-0
-  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-49291-0/MediaObjects/41467_2024_49291_Fig1_HTML.png?as=webp
+  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-49291-0/MediaObjects/41467_2024_49291_Fig1_HTML.png
   tags:
     - instrumentation
 
@@ -38,17 +38,17 @@
     - application
 
 - id: doi:10.1364/BOE.401836
-  images: https://opg.optica.org/getimagev2.cfm?img=GIguycW7Sj2FHxKDcdsceJxbDrbwdPngplGH%2FehweF0%3D&uri=boe-11-12-6973-g001
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ce7/7747911/69dff790381f/boe-11-12-6973-g001.jpg
   tags:
     - theory
 
 - id: doi:10.1038/s42003-020-0908-2
-  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-020-0908-2/MediaObjects/42003_2020_908_Fig1_HTML.png?as=webp
+  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-020-0908-2/MediaObjects/42003_2020_908_Fig1_HTML.png
   tags:
     - algorithm
 
 - id: doi:10.1038/s41592-020-0816-x
-  images: https://www.biorxiv.org/content/biorxiv/early/2019/08/06/727354/F1.large.jpg?width=800&height=600&carousel=1
+  images: https://www.biorxiv.org/content/biorxiv/early/2019/08/06/727354/F1.large.jpg
   tags:
     - algorithm
 
