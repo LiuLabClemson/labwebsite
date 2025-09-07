@@ -11,8 +11,11 @@
   date: '2025-07-10'
   link: https://doi.org/g92tj6
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6210/12339305/c7387d7f4b47/boe-16-8-3139-g001.jpg
+  tags:
+  - algorithm
 - id: doi:10.1364/PRJ.547778
   title: Upsampled PSF enables high accuracy 3D superresolution imaging with sparse
     sampling rate
@@ -27,8 +30,11 @@
   date: '2025-05-16'
   link: https://doi.org/g92tj7
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://opg.optica.org/getimagev2.cfm?img=c1Nx2h4U9QhCz1sBbbvyS%2FyNXuB0Q3TQEDoOycRSYJ0%3D&uri=prj-13-6-1485-g001
+  tags:
+  - algorithm
 - id: doi:10.21105/joss.07275
   title: A MATLAB-based Instrument Control (MIC) package for fluorescence imaging
   authors:
@@ -47,8 +53,10 @@
   date: '2025-01-28'
   link: https://doi.org/g92tj8
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - software
 - id: doi:10.1101/2025.01.03.631147
   title: Separation estimation of two freely rotating dipole emitters near the quantum
     limit
@@ -62,8 +70,11 @@
   date: '2025-01-03'
   link: https://doi.org/g92tj9
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.biorxiv.org/content/biorxiv/early/2025/09/02/2025.01.03.631147/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - theory
 - id: doi:10.1364/OE.531588
   title: Fast and universal single-molecule localization using multi-dimensional point
     spread functions
@@ -80,8 +91,11 @@
   date: '2024-11-06'
   link: https://doi.org/g92tkb
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://opg.optica.org/getimagev2.cfm?img=vNdu51dGGjjC9CmIcrzz1QgugSBFtXgifn%2Bof2reMog%3D&uri=oe-32-24-42601-g001
+  tags:
+  - algorithm
 - id: doi:10.1101/2024.10.31.620776
   title: Up sampled PSF enables high accuracy 3D super-resolution imaging with sparse
     sampling rate
@@ -116,8 +130,11 @@
   date: '2024-06-12'
   link: https://doi.org/g92tkd
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-49291-0/MediaObjects/41467_2024_49291_Fig1_HTML.png?as=webp
+  tags:
+  - instrumentation
 - id: doi:10.1038/s41592-024-02282-x
   title: Universal inverse modeling of point spread functions for SMLM localization
     and microscope characterization
@@ -138,8 +155,11 @@
   date: '2024-06-01'
   link: https://doi.org/g92tkf
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a3f7/12330227/0340731a794f/nihms-2006257-f0001.jpg
+  tags:
+  - software
 - id: doi:10.1101/2023.10.26.564064
   title: Universal inverse modelling of point spread functions for SMLM localization
     and microscope characterization
@@ -183,8 +203,11 @@
   date: '2023-03-10'
   link: https://doi.org/kbgn
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8666/7614483/92ada382b7f6/EMS173946-f001.jpg
+  tags:
+  - application
 - id: doi:10.1101/2022.07.25.500391
   title: Direct observation of motor protein stepping in living cells using MINFLUX
   authors:
@@ -218,8 +241,11 @@
   date: '2020-11-09'
   link: https://doi.org/gtpmkd
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://opg.optica.org/getimagev2.cfm?img=GIguycW7Sj2FHxKDcdsceJxbDrbwdPngplGH%2FehweF0%3D&uri=boe-11-12-6973-g001
+  tags:
+  - theory
 - id: doi:10.1038/s42003-020-1020-3
   title: 'Author Correction: Enhanced 4Pi single-molecule localization microscopy
     with coherent pupil based localization'
@@ -242,8 +268,11 @@
   date: '2020-05-08'
   link: https://doi.org/g92tkj
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-020-0908-2/MediaObjects/42003_2020_908_Fig1_HTML.png?as=webp
+  tags:
+  - algorithm
 - id: doi:10.1038/s41592-020-0816-x
   title: Three-dimensional nanoscopy of whole cells and tissues with in situ point
     spread function retrieval
@@ -266,8 +295,11 @@
   date: '2020-05-01'
   link: https://doi.org/ggt425
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.biorxiv.org/content/biorxiv/early/2019/08/06/727354/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - algorithm
 - id: doi:10.1101/586404
   title: Enhanced 4Pi single-molecule localization microscopy with coherent pupil
     based localization and light sheet illumination
@@ -294,8 +326,11 @@
   date: '2018-10-30'
   link: https://doi.org/gfzv2m
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2610/6624853/c759ce8e2025/nihms-1505436-f0001.jpg
+  tags:
+  - deep learning
 - id: doi:10.1038/s41592-018-0053-8
   title: Active PSF shaping and adaptive optics enable volumetric localization microscopy
     through brain sections
@@ -313,8 +348,11 @@
   date: '2018-07-16'
   link: https://doi.org/gdwrp2
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eaab/6071422/1e2a7abf367a/nihms970111f1.jpg
+  tags:
+  - instrumentation
 - id: doi:10.1038/nmeth.4379
   title: sCMOS noise-correction algorithm for microscopy images
   authors:
@@ -329,63 +367,8 @@
   date: '2017-08-01'
   link: https://doi.org/gcz8tw
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cf4/6016843/74137ca7a0c4/nihms974762f1.jpg
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - software
