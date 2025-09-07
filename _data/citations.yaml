@@ -13,7 +13,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6210/12339305/c7387d7f4b47/boe-16-8-3139-g001.jpg
+  image: ../images/publications/Sajjad_BOE_2025.jpeg
   tags:
   - algorithm
 - id: doi:10.1364/PRJ.547778
@@ -32,7 +32,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  image: https://opg.optica.org/getimagev2.cfm?img=c1Nx2h4U9QhCz1sBbbvyS%2FyNXuB0Q3TQEDoOycRSYJ0%3D&uri=prj-13-6-1485-g001
+  image: ../images/publications/Chen_PhotonicResearch_2025.jpeg
   tags:
   - algorithm
 - id: doi:10.21105/joss.07275
@@ -72,7 +72,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://www.biorxiv.org/content/biorxiv/early/2025/09/02/2025.01.03.631147/F1.large.jpg
+  images: ../images/publications/Liu_bioRxiv_2025.jpg
   tags:
   - theory
 - id: doi:10.1364/OE.531588
@@ -93,7 +93,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://opg.optica.org/getimagev2.cfm?img=baFr24pJ1UIKzOpk7mA7%2ByElJ0FN8PAHUOTyDCNemXU%3D&uri=oe-32-24-42601-g001
+  images: ../images/publications/Li_OE_2024.jpg
   tags:
   - algorithm
 - id: doi:10.1101/2024.10.31.620776
@@ -132,7 +132,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-49291-0/MediaObjects/41467_2024_49291_Fig1_HTML.png
+  images: ../images/publications/Dibaji_NatCommu_2024.jpg
   tags:
   - instrumentation
 - id: doi:10.1038/s41592-024-02282-x
@@ -157,7 +157,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a3f7/12330227/0340731a794f/nihms-2006257-f0001.jpg
+  images: ../images/publications/Liu_NatMethod_2024.jpg
   tags:
   - software
 - id: doi:10.1101/2023.10.26.564064
@@ -205,7 +205,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8666/7614483/92ada382b7f6/EMS173946-f001.jpg
+  images: ../images/publications/Deguchi_Science_2023.jpg
   tags:
   - application
 - id: doi:10.1101/2022.07.25.500391
@@ -243,7 +243,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7ce7/7747911/69dff790381f/boe-11-12-6973-g001.jpg
+  images: ../images/publications/Li_BOE_2020.jpg
   tags:
   - theory
 - id: doi:10.1038/s42003-020-1020-3
@@ -270,7 +270,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-020-0908-2/MediaObjects/42003_2020_908_Fig1_HTML.png
+  images: ../images/publications/Liu_CommuBio_2020.jpg
   tags:
   - algorithm
 - id: doi:10.1038/s41592-020-0816-x
@@ -297,7 +297,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://www.biorxiv.org/content/biorxiv/early/2019/08/06/727354/F1.large.jpg
+  images: ../images/publications/Xu_NatMethod_2020.jpg
   tags:
   - algorithm
 - id: doi:10.1101/586404
@@ -328,7 +328,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2610/6624853/c759ce8e2025/nihms-1505436-f0001.jpg
+  images: ../images/publications/Zhang_NatMethod_2018.jpg
   tags:
   - algorithm
 - id: doi:10.1038/s41592-018-0053-8
@@ -350,7 +350,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eaab/6071422/1e2a7abf367a/nihms970111f1.jpg
+  images: ../images/publications/Mlodzianoski_NatMethod_2018.jpg
   tags:
   - instrumentation
 - id: doi:10.1038/nmeth.4379
@@ -369,6 +369,174 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1cf4/6016843/74137ca7a0c4/nihms974762f1.jpg
+  images: ../images/publications/Liu_NatMethod_2017.jpg
   tags:
   - software
+- id: doi:10.1146/annurev-biophys-102521-112912
+  title: Super-Resolution Microscopy for Structural Cell Biology
+  authors:
+  - Sheng Liu
+  - Philipp Hoess
+  - Jonas Ries
+  publisher: Annual Review of Biophysics
+  date: '2022-05-09'
+  link: https://doi.org/gpfkvr
+  images: ../images/publications/Liu_AnnualReview_2022.jpg
+  tags:
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0064320
+  title: Multi-Color Quantum Dot Tracking Using a High-Speed Hyperspectral Line-Scanning
+    Microscope
+  authors:
+  - Patrick J. Cutler
+  - Michael D. Malik
+  - Sheng Liu
+  - Jason M. Byars
+  - Diane S. Lidke
+  - Keith A. Lidke
+  publisher: PLoS ONE
+  date: '2013-05-22'
+  link: https://doi.org/g92tvs
+  images: ../images/publications/Cutler_PlosOne_2013.png
+  tags:
+  - instrumentation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/BOE.7.002219
+  title: Single objective light-sheet microscopy for high-speed whole-cell 3D super-resolution
+  authors:
+  - Marjolein B. M. Meddens
+  - Sheng Liu
+  - Patrick S. Finnegan
+  - Thayne L. Edwards
+  - Conrad D. James
+  - Keith A. Lidke
+  publisher: Biomedical Optics Express
+  date: '2016-05-17'
+  link: https://doi.org/g92tvt
+  images: ../images/publications/Meddens_BOE_2016.jpg
+  tags:
+  - instrumentation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/OE.21.029462
+  title: Three dimensional single molecule localization using a phase retrieved pupil
+    function
+  authors:
+  - Sheng Liu
+  - Emil B. Kromann
+  - Wesley D. Krueger
+  - Joerg Bewersdorf
+  - Keith A. Lidke
+  publisher: Optics Express
+  date: '2013-11-21'
+  link: https://doi.org/gm8wkf
+  images: ../images/publications/Liu_OE_2013.jpeg
+  tags:
+  - algorithm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0123941
+  title: Sequential Superresolution Imaging of Multiple Targets Using a Single Fluorophore
+  authors:
+  - Christopher C. Valley
+  - Sheng Liu
+  - Diane S. Lidke
+  - Keith A. Lidke
+  publisher: PLOS ONE
+  date: '2015-04-10'
+  link: https://doi.org/f7f9rw
+  images: ../images/publications/Valley_PlosOne_2015.png
+  tags:
+  - instrumentation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/2050-6120/3/1/014003
+  title: Resolution improvement by 3D particle averaging in localization microscopy
+  authors:
+  - Jordi Broeken
+  - Hannah Johnson
+  - Diane S Lidke
+  - Sheng Liu
+  - Robert P J Nieuwenhuizen
+  - Sjoerd Stallinga
+  - Keith A Lidke
+  - Bernd Rieger
+  publisher: Methods and Applications in Fluorescence
+  date: '2015-01-16'
+  link: https://doi.org/gf2n3h
+  images: ../images/publications/Broeken_MethodApplFluor_2015.jpg
+  tags:
+  - algorithm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1146/annurev-bioeng-060418-052203
+  title: Three-Dimensional Single-Molecule Localization Microscopy in Whole-Cell and
+    Tissue Specimens
+  authors:
+  - Sheng Liu
+  - Hyun Huh
+  - Sang-Hyuk Lee
+  - Fang Huang
+  publisher: Annual Review of Biomedical Engineering
+  date: '2020-06-04'
+  link: https://doi.org/g92tvv
+  images: ../images/publications/Liu_AnnualReview_2020.jpg
+  tags:
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cphc.201300758
+  title: A Multiemitter Localization Comparison of 3D Superresolution Imaging Modalities
+  authors:
+  - Sheng Liu
+  - Keith A. Lidke
+  publisher: ChemPhysChem
+  date: '2013-11-26'
+  link: https://doi.org/f2nz2j
+  images: ../images/publications/Liu_ChemPhysChem_2013.jpeg
+  tags:
+  - theory
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s44172-024-00205-4
+  title: Signal improved ultra-fast light-sheet microscope for large tissue imaging
+  authors:
+  - Md Nasful Huda Prince
+  - Benjamin Garcia
+  - Cory Henn
+  - Yating Yi
+  - Etsuo A. Susaki
+  - Yuki Watakabe
+  - Tomomi Nemoto
+  - Keith A. Lidke
+  - Hu Zhao
+  - Irene Salinas Remiro
+  - Sheng Liu
+  - Tonmoy Chakraborty
+  publisher: Communications Engineering
+  date: '2024-04-02'
+  link: https://doi.org/g92tvw
+  images: ../images/publications/Prince_CommuEng_2024.jpg
+  tags:
+  - instrumentation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/BOE.477501
+  title: Automated multi-target super-resolution microscopy with trust regions
+  authors:
+  - David J. Schodt
+  - Farzin Farzam
+  - Sheng Liu
+  - Keith A. Lidke
+  publisher: Biomedical Optics Express
+  date: '2022-12-20'
+  link: https://doi.org/g92tvx
+  images: ../images/publications/Schodt_BOE_2022.jpg
+  tags:
+  - algorithm
+  - instrumentation
+  plugin: sources.py
+  file: sources.yaml
