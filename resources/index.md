@@ -1,8 +1,8 @@
 ---
-title: Research
+title: Resources
 nav:
-  order: 1
-  tooltip: Past and ongoing research projects
+  order: 4
+  tooltip: Softwares, useful links
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
