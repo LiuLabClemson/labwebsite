@@ -55,7 +55,7 @@
 - id: doi:10.1038/s41592-018-0153-5
   images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2610/6624853/c759ce8e2025/nihms-1505436-f0001.jpg
   tags:
-    - deep learning
+    - algorithm
 
 - id: doi:10.1038/s41592-018-0053-8
   images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/eaab/6071422/1e2a7abf367a/nihms970111f1.jpg
