@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-{% include tags.html tags="algorithm, theory, software, instrumentation" %}
+{% include tags.html tags="algorithm, theory, software, instrumentation, application" %}
 
 {% include search-info.html %}
 
