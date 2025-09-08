@@ -456,3 +456,23 @@
   - instrumentation
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41467-022-30719-4
+  title: Global fitting for high-accuracy multi-channel single-molecule localization
+  authors:
+  - Yiming Li
+  - Wei Shi
+  - Sheng Liu
+  - Ivana Cavka
+  - Yu-Le Wu
+  - Ulf Matti
+  - Decheng Wu
+  - Simone Koehler
+  - Jonas Ries
+  publisher: Nature Communications
+  date: '2022-06-06'
+  link: https://doi.org/gtsr76
+  image: images/publications/Li_NatCommu_2022.jpg
+  tags:
+  - software
+  plugin: sources.py
+  file: sources.yaml
