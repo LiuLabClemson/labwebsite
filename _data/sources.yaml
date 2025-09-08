@@ -1,10 +1,10 @@
 - id: doi:10.1364/BOE.563592
-  image: images/publications/Sajjad_BOE_2025.jpeg
+  image: /images/publications/Sajjad_BOE_2025.jpeg
   tags:
     - algorithm
 
 - id: doi:10.1364/PRJ.547778
-  image: ../images/publications/Chen_PhotonicResearch_2025.jpeg
+  image: /images/publications/Chen_PhotonicResearch_2025.jpeg
   tags:
     - algorithm
 
@@ -13,7 +13,7 @@
     - software
 
 - id: doi:10.1101/2025.01.03.631147
-  images: ../images/publications/Liu_bioRxiv_2025.jpg
+  images: /images/publications/Liu_bioRxiv_2025.jpg
   tags:
     - theory
 
