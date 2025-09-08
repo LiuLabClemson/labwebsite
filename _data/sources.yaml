@@ -13,7 +13,7 @@
     - software
 
 - id: doi:10.1101/2025.01.03.631147
-  images: /images/Liu_bioRxiv_2025.jpg
+  images: https://github.com/LiuLabClemson/labwebsite/blob/main/images/publications/Liu_bioRxiv_2025.jpg
   tags:
     - theory
 
