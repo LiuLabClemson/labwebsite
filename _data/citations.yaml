@@ -13,7 +13,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  image: /images/publications/Liu_bioRxiv_2025.jpg
+  image: images/publications/Sajjad_BOE_2025.jpg
   tags:
   - algorithm
 - id: doi:10.1364/PRJ.547778
@@ -32,7 +32,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  image: /images/publications/Chen_PhotonicResearch_2025.jpg
+  image: images/publications/Chen_PhotonicResearch_2025.jpg
   tags:
   - algorithm
 - id: doi:10.21105/joss.07275
@@ -55,6 +55,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
+  images: images/publications/Sajjad_Joss_2025.png
   tags:
   - software
 - id: doi:10.1101/2025.01.03.631147
@@ -72,7 +73,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Liu_bioRxiv_2025.jpg
+  images: images/publications/Liu_bioRxiv_2025.jpg
   tags:
   - theory
 - id: doi:10.1364/OE.531588
@@ -93,7 +94,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Li_OE_2024.jpg
+  images: images/publications/Li_OE_2024.jpg
   tags:
   - algorithm
 - id: doi:10.1038/s41467-024-49291-0
@@ -116,7 +117,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Dibaji_NatCommu_2024.jpg
+  images: images/publications/Dibaji_NatCommu_2024.jpg
   tags:
   - instrumentation
 - id: doi:10.1038/s41592-024-02282-x
@@ -141,7 +142,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Liu_NatMethod_2024.jpg
+  images: images/publications/Liu_NatMethod_2024.jpg
   tags:
   - software
 - id: doi:10.1101/2022.07.25.500391
@@ -179,7 +180,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Li_BOE_2020.jpg
+  images: images/publications/Li_BOE_2020.jpg
   tags:
   - theory
 - id: doi:10.1038/s42003-020-0908-2
@@ -194,7 +195,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Liu_CommuBio_2020.jpg
+  images: images/publications/Liu_CommuBio_2020.jpg
   tags:
   - algorithm
 - id: doi:10.1038/s41592-020-0816-x
@@ -221,7 +222,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Xu_NatMethod_2020.jpg
+  images: images/publications/Xu_NatMethod_2020.jpg
   tags:
   - algorithm
 - id: doi:10.1038/s41592-018-0153-5
@@ -240,7 +241,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Zhang_NatMethod_2018.jpg
+  images: images/publications/Zhang_NatMethod_2018.jpg
   tags:
   - algorithm
 - id: doi:10.1038/s41592-018-0053-8
@@ -262,7 +263,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Mlodzianoski_NatMethod_2018.jpg
+  images: images/publications/Mlodzianoski_NatMethod_2018.jpg
   tags:
   - instrumentation
 - id: doi:10.1038/nmeth.4379
@@ -281,7 +282,7 @@
   orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  images: /images/publications/Liu_NatMethod_2017.jpg
+  images: images/publications/Liu_NatMethod_2017.jpg
   tags:
   - software
 - id: doi:10.1126/science.ade2676
@@ -304,7 +305,7 @@
   publisher: Science
   date: '2023-03-10'
   link: https://doi.org/kbgn
-  images: /images/publications/Deguchi_Science_2023.jpg
+  images: images/publications/Deguchi_Science_2023.jpg
   tags:
   - application
   plugin: sources.py
@@ -318,7 +319,7 @@
   publisher: Annual Review of Biophysics
   date: '2022-05-09'
   link: https://doi.org/gpfkvr
-  images: /images/publications/Liu_AnnualReview_2022.jpg
+  images: images/publications/Liu_AnnualReview_2022.jpg
   tags:
   - review
   plugin: sources.py
@@ -336,7 +337,7 @@
   publisher: PLoS ONE
   date: '2013-05-22'
   link: https://doi.org/g92tvs
-  images: /images/publications/Cutler_PlosOne_2013.jpg
+  images: images/publications/Cutler_PlosOne_2013.jpg
   tags:
   - instrumentation
   plugin: sources.py
@@ -353,7 +354,7 @@
   publisher: Biomedical Optics Express
   date: '2016-05-17'
   link: https://doi.org/g92tvt
-  images: /images/publications/Meddens_BOE_2016.jpg
+  images: images/publications/Meddens_BOE_2016.jpg
   tags:
   - instrumentation
   plugin: sources.py
@@ -370,7 +371,7 @@
   publisher: Optics Express
   date: '2013-11-21'
   link: https://doi.org/gm8wkf
-  images: /images/publications/Liu_OE_2013.jpg
+  images: images/publications/Liu_OE_2013.jpg
   tags:
   - algorithm
   plugin: sources.py
@@ -385,7 +386,7 @@
   publisher: PLOS ONE
   date: '2015-04-10'
   link: https://doi.org/f7f9rw
-  images: /images/publications/Valley_PlosOne_2015.jpg
+  images: images/publications/Valley_PlosOne_2015.jpg
   tags:
   - instrumentation
   plugin: sources.py
@@ -404,7 +405,7 @@
   publisher: Methods and Applications in Fluorescence
   date: '2015-01-16'
   link: https://doi.org/gf2n3h
-  images: /images/publications/Broeken_MethodApplFluor_2015.jpg
+  images: images/publications/Broeken_MethodApplFluor_2015.jpg
   tags:
   - algorithm
   plugin: sources.py
@@ -420,7 +421,7 @@
   publisher: Annual Review of Biomedical Engineering
   date: '2020-06-04'
   link: https://doi.org/g92tvv
-  images: /images/publications/Liu_AnnualReview_2020.jpg
+  images: images/publications/Liu_AnnualReview_2020.jpg
   tags:
   - review
   plugin: sources.py
@@ -433,7 +434,7 @@
   publisher: ChemPhysChem
   date: '2013-11-26'
   link: https://doi.org/f2nz2j
-  images: /images/publications/Liu_ChemPhysChem_2013.jpg
+  images: images/publications/Liu_ChemPhysChem_2013.jpg
   tags:
   - theory
   plugin: sources.py
@@ -456,7 +457,7 @@
   publisher: Communications Engineering
   date: '2024-04-02'
   link: https://doi.org/g92tvw
-  images: /images/publications/Prince_CommuEng_2024.jpg
+  images: images/publications/Prince_CommuEng_2024.jpg
   tags:
   - instrumentation
   plugin: sources.py
@@ -471,7 +472,7 @@
   publisher: Biomedical Optics Express
   date: '2022-12-20'
   link: https://doi.org/g92tvx
-  images: /images/publications/Schodt_BOE_2022.jpg
+  images: images/publications/Schodt_BOE_2022.jpg
   tags:
   - algorithm
   - instrumentation
