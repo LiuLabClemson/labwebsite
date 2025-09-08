@@ -285,7 +285,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-01-03'
   link: https://doi.org/g92tj9
-  images: /images/publications/Liu_bioRxiv_2025.jpg
+  images: ../images/publications/Liu_bioRxiv_2025.jpg
   tags:
   - theory
   plugin: sources.py
