@@ -5,18 +5,18 @@ nav:
   tooltip: Softwares, useful links
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Resources
 
-## Current Projects
-Summary of current projects
+## Softwares
+
 
 {% capture text %}
 
-Single particle tracking using Minflux 
+Ray tracing
 
 {%
   include button.html
-  link="research"
+  link="resources"
   text="See more info"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -29,7 +29,7 @@ Single particle tracking using Minflux
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="MINFLUX"
+  title="Ray tracing"
   text=text
 %}
 
