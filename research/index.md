@@ -40,16 +40,15 @@ MINFLUX (minimum photon flux) employs a donut shaped laser beam to track the emi
 
 {% 
   include citation.html 
-  lookup="Universal inverse modeling of point spread functions for SMLM localization
-    and microscope characterization" 
+  lookup="Universal inverse modeling of point spread functions for SMLM localization and microscope characterization" 
 %}
+
 {% 
   include citation.html 
-  lookup="Enhanced 4Pi single-molecule localization microscopy with coherent pupil
-    based localization" 
+  lookup="Enhanced 4Pi single-molecule localization microscopy with coherent pupil based localization" 
 %}
+
 {% 
   include citation.html 
-  lookup="Enhanced 4Pi single-molecule localization microscopy with coherent pupil
-    based localization" 
+  lookup="Global fitting for high-accuracy multi-channel single-molecule localization" 
 %}

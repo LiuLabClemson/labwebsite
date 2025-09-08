@@ -119,3 +119,7 @@
     - algorithm
     - instrumentation
 
+- id: doi:10.1038/s41467-022-30719-4
+  image: images/publications/Li_NatCommu_2022.jpg
+  tags:
+    - software
