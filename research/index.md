@@ -13,21 +13,12 @@ Summary of current projects
 {% capture text %}
 MINFLUX (minimum photon flux) employs a donut shaped laser beam to track the emitter with the local minimum of its illumination pattern. The central minimum of a donut-shaped beam is scanned around the single emitter following a predefined scanning pattern. The photon values detected at all scanning positions, together with the knowledge of the scanning pattern, allow one to extract the emitter's position with nanometer precision. In single-particle tracking, the donut beam continuously follows the emitter with a localization rate up to the scanning cycle rate of approximately 10 kHz. Our lab is interested in constructing a custom-built MINFLUX system and applying it to studying protein dynamics on cells. 
 
+{% endcapture %}
 
 {% 
   include citation.html 
   lookup="Direct observation of motor protein stepping in living cells using MINFLUX" 
-  style="rich" 
 %}
-
-{%
- include list.html 
- data="citations" 
- component="citation" 
- filter="title=='Direct observation of motor protein stepping in living cells using MINFLUX'" 
-%}
-
-{% endcapture %}
 
 {%
   include feature.html
@@ -36,10 +27,6 @@ MINFLUX (minimum photon flux) employs a donut shaped laser beam to track the emi
   title="MINFLUX"
   text=text
 %}
-
-
-
-
 
 {% include tags.html tags="publication, resource, website" %}
 

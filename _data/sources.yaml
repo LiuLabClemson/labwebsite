@@ -1,10 +1,10 @@
 - id: doi:10.1364/BOE.563592
-  image: /images/publications/Sajjad_BOE_2025.jpeg
+  image: /images/publications/Sajjad_BOE_2025.jpg
   tags:
     - algorithm
 
 - id: doi:10.1364/PRJ.547778
-  image: /images/publications/Chen_PhotonicResearch_2025.jpeg
+  image: /images/publications/Chen_PhotonicResearch_2025.jpg
   tags:
     - algorithm
 
@@ -73,7 +73,7 @@
     - review
 
 - id: doi:10.1371/journal.pone.0064320
-  images: /images/publications/Cutler_PlosOne_2013.png
+  images: /images/publications/Cutler_PlosOne_2013.jpg
   tags:
     - instrumentation
 
@@ -83,12 +83,12 @@
     - instrumentation
 
 - id: doi:10.1364/OE.21.029462
-  images: /images/publications/Liu_OE_2013.jpeg
+  images: /images/publications/Liu_OE_2013.jpg
   tags:
     - algorithm
 
 - id: doi:10.1371/journal.pone.0123941
-  images: /images/publications/Valley_PlosOne_2015.png
+  images: /images/publications/Valley_PlosOne_2015.jpg
   tags:
     - instrumentation
 
@@ -103,7 +103,7 @@
     - review
 
 - id: doi:10.1002/cphc.201300758
-  images: /images/publications/Liu_ChemPhysChem_2013.jpeg
+  images: /images/publications/Liu_ChemPhysChem_2013.jpg
   tags:
     - theory
 
