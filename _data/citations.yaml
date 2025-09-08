@@ -145,6 +145,29 @@
   image: images/publications/Liu_NatMethod_2024.jpg
   tags:
   - software
+- id: doi:10.1101/2022.07.25.500391
+  title: Direct observation of motor protein stepping in living cells using MINFLUX
+  authors:
+  - Takahiro Deguchi
+  - Malina K. Iwanski
+  - Eva-Maria Schentarra
+  - Christopher Heidebrecht
+  - Lisa Schmidt
+  - Jennifer Heck
+  - Tobias Weihs
+  - Sebastian Schnorrenberg
+  - Philipp Hoess
+  - Sheng Liu
+  - Veronika Chevyreva
+  - Kyung-Min Noh
+  - Lukas C. Kapitein
+  - Jonas Ries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-25'
+  link: https://doi.org/g92tkh
+  orcid: 0000-0003-1225-0763
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1364/BOE.401836
   title: Variance lower bound on fluorescence microscopy image denoising
   authors:
