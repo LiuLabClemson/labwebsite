@@ -24,7 +24,7 @@ MINFLUX (minimum photon flux) employs a donut shaped laser beam to track the emi
  include list.html 
  data="citations" 
  component="citation" 
- lookup="Direct observation of motor protein stepping in living cells using MINFLUX" 
+ filter="title=='Direct observation of motor protein stepping in living cells using MINFLUX'" 
 %}
 
 {% endcapture %}
