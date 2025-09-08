@@ -1,5 +1,224 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.06.19.660613
+  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+  authors:
+  - Dave Bunten
+  - Jenna Tomkinson
+  - Erik Serrano
+  - Michael J. Lippincott
+  - Kenneth I. Brewer
+  - Vince Rubinetti
+  - Faisal Alquaddoomi
+  - Gregory P. Way
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-25'
+  link: https://doi.org/g9rfr3
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad1082
+  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
+    \ genes\_and diseases across species"
+  authors:
+  - Tim E Putman
+  - Kevin Schaper
+  - Nicolas Matentzoglu
+  - "Vincent\_P Rubinetti"
+  - "Faisal\_S Alquaddoomi"
+  - Corey Cox
+  - J Harry Caufield
+  - Glass Elsarboukh
+  - Sarah Gehrke
+  - Harshad Hegde
+  - "Justin\_T Reese"
+  - Ian Braun
+  - "Richard\_M Bruskiewich"
+  - Luca Cappelletti
+  - Seth Carbon
+  - "Anita\_R Caron"
+  - "Lauren\_E Chan"
+  - "Christopher\_G Chute"
+  - "Katherina\_G Cortes"
+  - "Vin\xEDcius De\_Souza"
+  - Tommaso Fontana
+  - "Nomi\_L Harris"
+  - "Emily\_L Hartley"
+  - Eric Hurwitz
+  - "Julius\_O B Jacobsen"
+  - Madan Krishnamurthy
+  - "Bryan\_J Laraway"
+  - "James\_A McLaughlin"
+  - "Julie\_A McMurry"
+  - "Sierra\_A T Moxon"
+  - "Kathleen\_R Mullen"
+  - "Shawn\_T O\u2019Neil"
+  - "Kent\_A Shefchek"
+  - Ray Stefancsik
+  - Sabrina Toro
+  - "Nicole\_A Vasilevsky"
+  - "Ramona\_L Walls"
+  - "Patricia\_L Whetzel"
+  - David Osumi-Sutherland
+  - Damian Smedley
+  - "Peter\_N Robinson"
+  - "Christopher\_J Mungall"
+  - "Melissa\_A Haendel"
+  - "Monica\_C Munoz-Torres"
+  publisher: Nucleic Acids Research
+  date: '2023-11-24'
+  link: https://doi.org/gs6kmr
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.11.560955
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-11'
+  link: https://doi.org/gsvf5z
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+  authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.05.522941
+  title: Hetnet connectivity search provides rapid insights into how two biomedical
+    entities are related
+  authors:
+  - Daniel S. Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J. Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N. Nicholson
+  - Yun Hao
+  - Blair D. Sullivan
+  - Michael W. Nagle
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-07'
+  link: https://doi.org/grmcb9
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giad047
+  title: Hetnet connectivity search provides rapid insights into how biomedical entities
+    are related
+  authors:
+  - Daniel S Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N Nicholson
+  - Yun Hao
+  - Blair D Sullivan
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: GigaScience
+  date: '2022-12-28'
+  link: https://doi.org/gsd85n
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.18.461833
+  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
+    and phylogeny'
+  authors:
+  - Jacob D Krol
+  - Joseph T Burke
+  - Samuel Z Chen
+  - Lo M Sosinski
+  - Faisal S Alquaddoomi
+  - Evan P Brenner
+  - Ethan P Wolfe
+  - Vincent P Rubinetti
+  - Shaddai Amolitos
+  - Kellen M Reason
+  - John B Johnston
+  - Janani Ravi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-22'
+  link: https://doi.org/gstx7j
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-020-02021-3
+  title: Compressing gene expression data using multiple latent space dimensionalities
+    learns complementary biological representations
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2020-05-11'
+  link: https://doi.org/gg2mjh
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2019-06-24'
+  link: https://doi.org/c7np
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/573782
+  title: Sequential compression of gene expression across dimensionalities and methods
+    reveals no single best method or dimensionality
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-03-11'
+  link: https://doi.org/gfxjxf
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1364/BOE.563592
   title: Enhanced supercritical angle localization microscopy through point spread
     function modeling
@@ -10,12 +229,11 @@
   publisher: Biomedical Optics Express
   date: '2025-07-10'
   link: https://doi.org/g92tj6
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Sajjad_BOE_2025.jpg
   tags:
   - algorithm
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1364/PRJ.547778
   title: Upsampled PSF enables high accuracy 3D superresolution imaging with sparse
     sampling rate
@@ -29,12 +247,11 @@
   publisher: Photonics Research
   date: '2025-05-16'
   link: https://doi.org/g92tj7
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Chen_PhotonicResearch_2025.jpg
   tags:
   - algorithm
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.21105/joss.07275
   title: A MATLAB-based Instrument Control (MIC) package for fluorescence imaging
   authors:
@@ -52,12 +269,11 @@
   publisher: Journal of Open Source Software
   date: '2025-01-28'
   link: https://doi.org/g92tj8
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Sajjad_Joss_2025.png
   tags:
   - software
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.01.03.631147
   title: Separation estimation of two freely rotating dipole emitters near the quantum
     limit
@@ -70,12 +286,11 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-01-03'
   link: https://doi.org/g92tj9
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Liu_bioRxiv_2025.jpg
   tags:
   - theory
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1364/OE.531588
   title: Fast and universal single-molecule localization using multi-dimensional point
     spread functions
@@ -91,12 +306,11 @@
   publisher: Optics Express
   date: '2024-11-06'
   link: https://doi.org/g92tkb
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Li_OE_2024.jpg
   tags:
   - algorithm
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-024-49291-0
   title: Axial de-scanning using remote focusing in the detection arm of light-sheet
     microscopy
@@ -114,12 +328,11 @@
   publisher: Nature Communications
   date: '2024-06-12'
   link: https://doi.org/g92tkd
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Dibaji_NatCommu_2024.jpg
   tags:
   - instrumentation
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41592-024-02282-x
   title: Universal inverse modeling of point spread functions for SMLM localization
     and microscope characterization
@@ -139,152 +352,11 @@
   publisher: Nature Methods
   date: '2024-06-01'
   link: https://doi.org/g92tkf
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
   image: images/publications/Liu_NatMethod_2024.jpg
   tags:
   - software
-- id: doi:10.1101/2022.07.25.500391
-  title: Direct observation of motor protein stepping in living cells using MINFLUX
-  authors:
-  - Takahiro Deguchi
-  - Malina K. Iwanski
-  - Eva-Maria Schentarra
-  - Christopher Heidebrecht
-  - Lisa Schmidt
-  - Jennifer Heck
-  - Tobias Weihs
-  - Sebastian Schnorrenberg
-  - Philipp Hoess
-  - Sheng Liu
-  - Veronika Chevyreva
-  - Kyung-Min Noh
-  - Lukas C. Kapitein
-  - Jonas Ries
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-07-25'
-  link: https://doi.org/g92tkh
-  orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1364/BOE.401836
-  title: Variance lower bound on fluorescence microscopy image denoising
-  authors:
-  - Yilun Li
-  - Sheng Liu
-  - Fang Huang
-  publisher: Biomedical Optics Express
-  date: '2020-11-09'
-  link: https://doi.org/gtpmkd
-  orcid: 0000-0003-1225-0763
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/Li_BOE_2020.jpg
-  tags:
-  - theory
-- id: doi:10.1038/s42003-020-0908-2
-  title: Enhanced 4Pi single-molecule localization microscopy with coherent pupil
-    based localization
-  authors:
-  - Sheng Liu
-  - Fang Huang
-  publisher: Communications Biology
-  date: '2020-05-08'
-  link: https://doi.org/g92tkj
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/Liu_CommuBio_2020.jpg
-  tags:
-  - algorithm
-- id: doi:10.1038/s41592-020-0816-x
-  title: Three-dimensional nanoscopy of whole cells and tissues with in situ point
-    spread function retrieval
-  authors:
-  - Fan Xu
-  - Donghan Ma
-  - Kathryn P. MacPherson
-  - Sheng Liu
-  - Ye Bu
-  - Yu Wang
-  - Yu Tang
-  - Cheng Bi
-  - Tim Kwok
-  - Alexander A. Chubykin
-  - Peng Yin
-  - Sarah Calve
-  - Gary E. Landreth
-  - Fang Huang
-  publisher: Nature Methods
-  date: '2020-05-01'
-  link: https://doi.org/ggt425
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/Xu_NatMethod_2020.jpg
-  tags:
-  - algorithm
-- id: doi:10.1038/s41592-018-0153-5
-  title: Analyzing complex single-molecule emission patterns with deep learning
-  authors:
-  - Peiyi Zhang
-  - Sheng Liu
-  - Abhishek Chaurasia
-  - Donghan Ma
-  - Michael J. Mlodzianoski
-  - Eugenio Culurciello
-  - Fang Huang
-  publisher: Nature Methods
-  date: '2018-10-30'
-  link: https://doi.org/gfzv2m
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/Zhang_NatMethod_2018.jpg
-  tags:
-  - algorithm
-- id: doi:10.1038/s41592-018-0053-8
-  title: Active PSF shaping and adaptive optics enable volumetric localization microscopy
-    through brain sections
-  authors:
-  - Michael J. Mlodzianoski
-  - Paul J. Cheng-Hathaway
-  - Shane M. Bemiller
-  - Tyler J. McCray
-  - Sheng Liu
-  - David A. Miller
-  - Bruce T. Lamb
-  - Gary E. Landreth
-  - Fang Huang
-  publisher: Nature Methods
-  date: '2018-07-16'
-  link: https://doi.org/gdwrp2
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/Mlodzianoski_NatMethod_2018.jpg
-  tags:
-  - instrumentation
-- id: doi:10.1038/nmeth.4379
-  title: sCMOS noise-correction algorithm for microscopy images
-  authors:
-  - Sheng Liu
-  - Michael J Mlodzianoski
-  - Zhenhua Hu
-  - Yuan Ren
-  - Kristi McElmurry
-  - Daniel M Suter
-  - Fang Huang
-  publisher: Nature Methods
-  date: '2017-08-01'
-  link: https://doi.org/gcz8tw
-  orcid: 0000-0003-1225-0763
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/Liu_NatMethod_2017.jpg
-  tags:
-  - software
 - id: doi:10.1126/science.ade2676
   title: Direct observation of motor protein stepping in living cells using MINFLUX
   authors:
@@ -308,6 +380,117 @@
   image: images/publications/Deguchi_Science_2023.jpg
   tags:
   - application
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/BOE.401836
+  title: Variance lower bound on fluorescence microscopy image denoising
+  authors:
+  - Yilun Li
+  - Sheng Liu
+  - Fang Huang
+  publisher: Biomedical Optics Express
+  date: '2020-11-09'
+  link: https://doi.org/gtpmkd
+  image: images/publications/Li_BOE_2020.jpg
+  tags:
+  - theory
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s42003-020-0908-2
+  title: Enhanced 4Pi single-molecule localization microscopy with coherent pupil
+    based localization
+  authors:
+  - Sheng Liu
+  - Fang Huang
+  publisher: Communications Biology
+  date: '2020-05-08'
+  link: https://doi.org/g92tkj
+  image: images/publications/Liu_CommuBio_2020.jpg
+  tags:
+  - algorithm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-020-0816-x
+  title: Three-dimensional nanoscopy of whole cells and tissues with in situ point
+    spread function retrieval
+  authors:
+  - Fan Xu
+  - Donghan Ma
+  - Kathryn P. MacPherson
+  - Sheng Liu
+  - Ye Bu
+  - Yu Wang
+  - Yu Tang
+  - Cheng Bi
+  - Tim Kwok
+  - Alexander A. Chubykin
+  - Peng Yin
+  - Sarah Calve
+  - Gary E. Landreth
+  - Fang Huang
+  publisher: Nature Methods
+  date: '2020-05-01'
+  link: https://doi.org/ggt425
+  image: images/publications/Xu_NatMethod_2020.jpg
+  tags:
+  - algorithm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-018-0153-5
+  title: Analyzing complex single-molecule emission patterns with deep learning
+  authors:
+  - Peiyi Zhang
+  - Sheng Liu
+  - Abhishek Chaurasia
+  - Donghan Ma
+  - Michael J. Mlodzianoski
+  - Eugenio Culurciello
+  - Fang Huang
+  publisher: Nature Methods
+  date: '2018-10-30'
+  link: https://doi.org/gfzv2m
+  image: images/publications/Zhang_NatMethod_2018.jpg
+  tags:
+  - algorithm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-018-0053-8
+  title: Active PSF shaping and adaptive optics enable volumetric localization microscopy
+    through brain sections
+  authors:
+  - Michael J. Mlodzianoski
+  - Paul J. Cheng-Hathaway
+  - Shane M. Bemiller
+  - Tyler J. McCray
+  - Sheng Liu
+  - David A. Miller
+  - Bruce T. Lamb
+  - Gary E. Landreth
+  - Fang Huang
+  publisher: Nature Methods
+  date: '2018-07-16'
+  link: https://doi.org/gdwrp2
+  image: images/publications/Mlodzianoski_NatMethod_2018.jpg
+  tags:
+  - instrumentation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nmeth.4379
+  title: sCMOS noise-correction algorithm for microscopy images
+  authors:
+  - Sheng Liu
+  - Michael J Mlodzianoski
+  - Zhenhua Hu
+  - Yuan Ren
+  - Kristi McElmurry
+  - Daniel M Suter
+  - Fang Huang
+  publisher: Nature Methods
+  date: '2017-08-01'
+  link: https://doi.org/gcz8tw
+  image: images/publications/Liu_NatMethod_2017.jpg
+  tags:
+  - software
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1146/annurev-biophys-102521-112912
