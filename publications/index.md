@@ -13,7 +13,6 @@ nav:
 
 {% include section.html %}
 
-
 ## Highlighted
 
 {% include citation.html lookup="Universal inverse modeling of point spread functions" style="rich" %}
