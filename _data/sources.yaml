@@ -13,7 +13,7 @@
     - software
 
 - id: doi:10.1101/2025.01.03.631147
-  images: /images/publications/Liu_bioRxiv_2025.jpg
+  images: ../images/publications/Liu_bioRxiv_2025.jpg
   tags:
     - theory
 
