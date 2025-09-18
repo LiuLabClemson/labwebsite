@@ -27,7 +27,7 @@ MINFLUX (minimum photon flux) employs a donut shaped laser beam to track the emi
 
 
 {% capture proj2 %}
-4Pi-SMLM
+Among various single-molecule localization microscopy techniques (SMLM), 4Pi-SMLM uses interferometric detection to achieve ultra-high axial resolution. In 4Pi-SMLM, the sample is sandwiched between two objectives, and the fluorescence of single fluorophores collected by the two opposing objectives is interfered at a beam splitter. The z position of the fluorophore determines the path difference between the two interferometer arms, leading to constructive or destructive interference. The central intensity of the 4Pi point spread function (4Pi-PSF) is thus modulated with the emitter's axial position at a period of approximately λ/2. The twofold increase in collected photons, combined with this strong intensity modulation, results in a 5–7-fold increase in the axial resolution compared to single-objective SMLM. Our lab is interested in constructing a 4Pi-SMLM system and use it to study various questions in cellular biology.
 {% endcapture %}
 
 {%
@@ -51,4 +51,23 @@ MINFLUX (minimum photon flux) employs a donut shaped laser beam to track the emi
 {% 
   include citation.html 
   lookup="Global fitting for high-accuracy multi-channel single-molecule localization" 
+%}
+
+
+{% capture proj3 %}
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/qcrb.png"
+  link="research"
+  title="Quantum information theory in fluorescence imaging"
+  text=proj3
+%}
+
+{% 
+  include citation.html 
+  lookup="Separation estimation of two freely rotating dipole emitters near the quantum limit" 
 %}
