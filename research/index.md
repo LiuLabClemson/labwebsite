@@ -55,15 +55,14 @@ Among various single-molecule localization microscopy techniques (SMLM), 4Pi-SML
 
 
 {% capture proj3 %}
-
-
+In fluorescence microscopy, we use various methods to measure the paremeters of single molecules, such as their positions, separations, and orientations. Given a particular imaging system, the estimation precision of a set of unknown parameters is bounded by the classical Cramér-Rao lower Bound (CRB). For example, when using a 4Pi-SMLM system to localize a emitter's position, we can calculate the CRB to determine the achievable resoution of a 4Pi-SMLM system. One important test to evaluate a localization algorithm is to test how close it can achieve the CRB. However, CRB is dependent on the measurement technique, such as a 4Pi system. Quantum information theory provides a bound for any possible measurement of a parameter, the quantum CRB (QCRB). The QCRB depends on the emitter type and parameters to be measured, but is independent of any particular measurement strategy. Therefore, QCRB is the lower bound for all measurement techniques. Finding a measurement technique that saturates this bound is a fundamental goal in quantum metrology. Our lab is interested in applying quantum information theory in fluorescence microscopy.
 {% endcapture %}
 
 {%
   include feature.html
   image="images/research/qcrb.png"
   link="research"
-  title="Quantum information theory in fluorescence imaging"
+  title="Quantum information theory in fluorescence microscopy"
   text=proj3
 %}
 
