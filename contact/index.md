@@ -53,7 +53,9 @@ nav:
 
 {% capture col1 %}
 Office: Kinard Lab 204  
+
 Delta Epsilon Ct  
+
 Clemson, SC 29634
 
 {% endcapture %}
