@@ -2,7 +2,8 @@
 name: Sheng Liu
 image: images/photo/sheng.png
 role: principal-investigator
-affiliation: Clemson University
+description: Assistant Professor
+affiliation: Department of Physics and Astronomy, Clemson University
 aliases:
   - S. Liu
   - S Liu

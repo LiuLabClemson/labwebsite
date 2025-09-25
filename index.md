@@ -51,6 +51,7 @@ Our lab is interested in developing microscope systems based on MINFLUX and 4Pi-
   image="images/homepage/cooperlib.png"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
 
@@ -75,7 +76,6 @@ Our lab is interested in developing microscope systems based on MINFLUX and 4Pi-
   image="images/photo.png"
   link="resources"
   title="Tools"
-  flip=true
   style="bare"
   text=text
 %}

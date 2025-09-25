@@ -7,27 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="shengl@clemson.edu"
+  link="shengl@clemson.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
+
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Kinard+Laboratory+of+Physics/@34.6775959,-82.8349358,212m/data=!3m1!1e3!4m6!3m5!1s0x88585e6c4ff4f221:0x96bbad4c6036c748!8m2!3d34.6775644!4d-82.8351009!16s%2Fg%2F11b7q9d7v0?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
@@ -57,21 +52,19 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Office: Kinard Lab 204
+Delta Epsilon Ct
+Clemson, SC 29634
+
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Lab: Jordan Hall G02A
+Delta Epsilon Ct
+Clemson, SC 29634
+
 {% endcapture %}
 
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% include cols.html col1=col1 col2=col2%}
