@@ -3,7 +3,7 @@
 
 # Liu Lab Clemson's Website
 
-An engaging 1-3 sentence description of your lab.
+Our lab is focused on developing advanced microscope systems to study protein interactions and organizations at high spatiotemporal resolution. 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We interested in developing microscope systems based on MINFLUX and 4Pi-SMLM, and exploring quantum information in fluorescence microscopy.
 
 {%
   include button.html
@@ -26,40 +26,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage/nup96_4pi.png"
   link="research"
   title="Our Research"
   text=text
 %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{%
-  include button.html
-  link="publications"
-  text="Browse our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="publications"
-  title="Our publications"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -74,8 +51,34 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage/cooperlib/photo.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+
+
+
+{% capture text %}
+
+{%
+  include button.html
+  link="resources"
+  text="Browse useful tools"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.png"
+  link="resources"
+  title="Tools"
+  flip=true
+  style="bare"
   text=text
 %}
