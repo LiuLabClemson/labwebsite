@@ -60,7 +60,7 @@ Clemson, SC 29634<br>
 
 {% capture col2 %}
 **Lab**: Jordan Hall G02A<br>
-Delta Epsilon Ct<br>  
+Delta Epsilon Ct<br>
 Clemson, SC 29634<br>
 
 {% endcapture %}
