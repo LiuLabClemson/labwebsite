@@ -10,6 +10,7 @@ links:
   email: shengl@clemson.edu
   home-page: https://liulabclemson.github.io/labwebsite/
   orcid: 0000-0003-1225-0763
+  google-scholar: jOBWm48AAAAJ
 ---
 
 Dr. Sheng Liu received her Ph.D. in Physics from the University of New Mexico (UNM) in 2014, where she trained under Dr. Keith Lidke. During her doctoral research, she developed several advanced optical tools and algorithms, including a phase retrieval algorithm for dual-focal plane super-resolution microscopy, a spherical prism spectrometer for hyperspectral line-scanning microscopy, and a single-objective light-sheet microscope.

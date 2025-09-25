@@ -11,7 +11,7 @@ Our lab is focused on developing advanced microscope systems to study protein in
 
 {% capture text %}
 
-We interested in developing microscope systems based on MINFLUX and 4Pi-SMLM, and exploring quantum information in fluorescence microscopy.
+Our lab is interested in developing microscope systems based on MINFLUX and 4Pi-SMLM, and exploring quantum information in fluorescence microscopy.
 
 {%
   include button.html
@@ -34,10 +34,7 @@ We interested in developing microscope systems based on MINFLUX and 4Pi-SMLM, an
 
 
 
-
 {% capture text %}
-
-
 {%
   include button.html
   link="team"
@@ -51,7 +48,7 @@ We interested in developing microscope systems based on MINFLUX and 4Pi-SMLM, an
 
 {%
   include feature.html
-  image="images/homepage/cooperlib/photo.jpg"
+  image="images/homepage/cooperlib.png"
   link="team"
   title="Our Team"
   text=text
