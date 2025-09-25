@@ -52,15 +52,15 @@ nav:
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Office: Kinard Lab 204
-Delta Epsilon Ct
+Office: Kinard Lab 204  
+Delta Epsilon Ct  
 Clemson, SC 29634
 
 {% endcapture %}
 
 {% capture col2 %}
-Lab: Jordan Hall G02A
-Delta Epsilon Ct
+Lab: Jordan Hall G02A 
+Delta Epsilon Ct  
 Clemson, SC 29634
 
 {% endcapture %}
