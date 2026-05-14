@@ -5,6 +5,8 @@
 
 Our lab is focused on developing advanced microscope systems to study protein interactions and organizations at high spatiotemporal resolution. 
 
+### We are recruiting - [join us](recruitment) !
+
 {% include section.html %}
 
 ## Highlights
