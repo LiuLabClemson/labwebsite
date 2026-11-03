@@ -9,10 +9,11 @@ nav:
 
 Our team is still growing. 
 
+<!--
 ## Postdoctoral Positions:
 
-We are looking for postdoctoral candidates interested in developing cutting-edge super-resolution microscopes to study protein interactions and organizations. If you're interested, please [email Sheng](../contact/) with your research interests and your CV. Find more details and how to apply [here](https://apply.interfolio.com/186637).
-
+We are looking for postdoctoral candidates interested in developing cutting-edge super-resolution microscopes to study protein interactions and organizations. If you're interested, please [email Sheng](../contact/) with your research interests and your CV.
+-->
 
 ## PhD Students:
 
