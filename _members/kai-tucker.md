@@ -2,8 +2,8 @@
 name: Kai Tucker
 image: images/photo/Kai.png
 role: undergrad
-group: alum
 links:
+group: alum
 ---
 
 Current position: Undergraduate student at Caltech

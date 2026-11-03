@@ -18,7 +18,7 @@ links:
 
 Ph.D. in Optical Science and Engineering, University of New Mexico, 2014
 
-**Professional experience**
+**Employment**
 
 Assistant Professor, Clemson University, 2025–present  
 Research Assistant Professor, University of New Mexico, 2020–2025  

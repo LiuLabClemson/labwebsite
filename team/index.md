@@ -15,7 +15,13 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lab photos
+## Alumni
+
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
+
+
+## Lab photos
 
 {% include section.html %}
 
