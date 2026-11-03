@@ -1,3 +1,13 @@
+- id: doi:10.1364/PRJ.596631
+  image: images/publications/Shaji_PhotonicResearch_2026.jpg
+  tags:
+    - instrumentation
+
+- id: doi:10.1103/nwrq-4fqv
+  image: images/publications/Liu_PRA_2026.jpg
+  tags:
+    - theory
+
 - id: doi:10.1364/BOE.563592
   image: images/publications/Sajjad_BOE_2025.jpg
   tags:

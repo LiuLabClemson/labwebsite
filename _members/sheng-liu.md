@@ -22,7 +22,7 @@ Ph.D. in Optical Science and Engineering, University of New Mexico, 2014
 
 Assistant Professor, Clemson University, 2025–present  
 Research Assistant Professor, University of New Mexico, 2020–2025  
-Researcher, European Molecular Biology Laboratory, 2020–2022  
+Postdoctoral Researcher, European Molecular Biology Laboratory, 2020–2022  
 Postdoctoral Researcher, Purdue University, 2015–2020
 
 Sheng Liu received her Ph.D. in Optical Science and Engineering from the University of New Mexico in 2014, where she worked in Dr. Keith Lidke’s lab. Her doctoral research included developing a phase retrieval algorithm for dual-focal plane super-resolution microscopy, a spherical prism spectrometer for hyperspectral line-scanning microscopy, and a single-objective light-sheet microscope.
