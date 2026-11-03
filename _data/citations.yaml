@@ -16,8 +16,11 @@
   date: '2026-09-01'
   link: https://doi.org/hcq2sg
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/Shaji_PhotonicResearch_2026.jpg
+  tags:
+  - instrumentation
 - id: doi:10.1103/nwrq-4fqv
   title: Separation estimation of two freely rotating dipole emitters near the quantum
     limit
@@ -31,8 +34,11 @@
   date: '2026-03-13'
   link: https://doi.org/hb35vh
   orcid: 0000-0003-1225-0763
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/Liu_PRA_2026.jpg
+  tags:
+  - theory
 - id: doi:10.1364/BOE.563592
   title: Enhanced supercritical angle localization microscopy through point spread
     function modeling
